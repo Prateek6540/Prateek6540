@@ -12,7 +12,7 @@
 
  <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/>
 
-<p align="left"><strong> Programer,Problem solver |C C++</strong></p> <br>
+<p align="left"><strong> Programer,Problem solver |C java</strong></p> <br>
 <h2 align="left"> ABOUT ME</h2>
 <p align="left"><strong>Techworm , sleepalcoholic and semi workalcoholic  .</strong></p> <br>
 
