@@ -1,6 +1,6 @@
 Hi there 👋
 ⚡ Fun fact: Expert in 30-hour sleepless project works and 20-hour continuous sleep.
-<!-- **Prateek6540/Prateek6540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> <h2 align="left">Hello Folks, I'm <strong>Prateek Naik ( ⌐■_■) </strong></h2> <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/> <p align="left"><strong>Programmer | Problem Solver | Full-Stack Developer</strong></p> <br>
+<!-- **Prateek6540/Prateek6540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> <h2 align="left">Hello Folks, I'm <strong>Prateek Naik ( ⌐■_■) </strong></h2> <img align="right" alt="GIF" src="https://i.imgur.com/9GNZGLH.gif" width="360"/> <p align="left"><strong>Programmer | Problem Solver </strong></p> <br>
 <h2 align="left">🧑‍💻 ABOUT ME</h2> <p align="left"><strong>Techworm, sleepalcoholic, and semi-workaholic.</strong></p> <p align="left"><br>Skilled in: <br>🛠 <b>Languages</b>: C, C++, Java, Python, JavaScript <br>🚀<<b>Frontend</b>: React.js, Next.js, HTML, CSS - <br>🔧<b>Backend</b>: Node.js, Flask - <br>💾<b>Databases</b>: MongoDB, MySQL, Firebase <br>🤖 <b>ML Libraries</b>: YOLOv5, YOLOv8 - <br>☁️<b>Cloud**</b>: Google Cloud <br>🧩 <b>Tools</b>: Git, Postman, Metasploit, VS Code</p>
 <h2 align="left">🚀 My Projects</h2>
 <br>
